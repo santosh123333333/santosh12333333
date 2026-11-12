@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=santosh123333333&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/santosh123333333?label=Followers&style=flat&color=blue" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Data%20Science-orange" alt="Focus" />
-</p>
+</p> 
 
 ---
 
