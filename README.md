@@ -1,35 +1,180 @@
-# santosh12333333<h1 align="center">Hi 👋, I'm Santosh Timsina</h1>
-<h3 align="center">MSc Data Science Graduate from the UK | Aspiring Data Scientist | Passionate about AI, Machine Learning & Data Analytics</h3>
+# 👋 Hi, I'm Santosh Timsina!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh123333333&label=Profile%20views&color=0e75b6&style=flat" alt="santosh123333333" /> </p>
+<h3 align="center">MSc Data Science Graduate | Aspiring Data Scientist | Machine Learning & AI Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh123333333" alt="santosh123333333" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I'm currently working on: Data Science and Machine Learning Projects **Data Science and Machine Learning Projects**
-
-- 🌱 I’m currently learning **Advanced Machine Learning,**
-
-- 👯 I’m looking to collaborate on **Data Science, AI & Open-Source Projects**
-
-- 🤝 I’m looking for help with **Data Science, Machine Learning & Data Analytics**
-
-- 💬 Ask me about **Python, SQL, Machine Learning, Data Analysis & Data Visualisation**
-
-- 📫 How to reach me **santoshtimsina567@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/san tos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="san tos" height="30" width="40" /></a>
-<a href="https://instagram.com/san.toshtimsina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="san.toshtimsina" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Data+Science+%7C+Machine+Learning;Python+%7C+SQL+%7C+AI;Turning+Data+into+Insights;Always+Learning+and+Building!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santosh123333333&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/santosh123333333?label=Followers&style=flat&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-orange" alt="Focus" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh123333333&show_icons=true&locale=en&layout=compact" alt="santosh123333333" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh123333333&show_icons=true&locale=en" alt="santosh123333333" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh123333333&" alt="santosh123333333" /></p>
+I'm Santosh Timsina, an MSc Data Science graduate from the UK with a strong interest in Data Science, Artificial Intelligence, Machine Learning, and Data Analytics.
+
+I enjoy exploring data, developing machine learning models, solving real-world problems, and transforming complex datasets into meaningful insights.
+
+- 🎓 MSc Data Science Graduate from the UK
+- 🔭 Currently working on Data Science and Machine Learning projects
+- 🌱 Learning Advanced Machine Learning, Deep Learning and AI
+- 🤝 Open to collaborating on Data Science, AI and Open-Source projects
+- 💬 Ask me about Python, SQL, Machine Learning, Data Analysis and Data Visualisation
+- 🎯 Goal: Build intelligent, data-driven solutions to real-world problems
+- 📫 Email: **santoshtimsina567@gmail.com**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santosh123333333&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosh123333333&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=santosh123333333&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+### 📈 GitHub Overview
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsantosh123333333&query=%24.public_repos&label=Public%20Repositories&color=blue&style=for-the-badge" alt="Public Repositories" />
+  <img src="https://img.shields.io/github/followers/santosh123333333?label=Followers&color=green&style=for-the-badge" alt="Followers" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santosh123333333&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+---
+
+## 📅 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/santosh123333333">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=santosh123333333&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=santosh123333333&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💻 Languages and Technologies
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,dart,sql" alt="Programming Languages" />
+</p>
+
+### Data Science & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" alt="Machine Learning Tools" />
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="Databases" />
+</p>
+
+### Tools & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,flutter" alt="Development Tools" />
+</p>
+
+### Python Libraries
+
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `TensorFlow`
+
+---
+
+## 🌟 Featured Projects
+
+Here are some projects I'm working on and showcasing in my GitHub portfolio.
+
+<!-- Replace these example placeholders with your actual repository names and descriptions. -->
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">📊 Data Analysis Projects</h3>
+<p align="center">
+Exploratory Data Analysis, data cleaning, visualization and insights using Python, Pandas and SQL.
+<br/><br/>
+<a href="https://github.com/santosh123333333?tab=repositories">View Repositories →</a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🤖 Machine Learning Projects</h3>
+<p align="center">
+Predictive modelling, classification, regression and practical machine learning applications.
+<br/><br/>
+<a href="https://github.com/santosh123333333?tab=repositories">View Repositories →</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🧠 Artificial Intelligence</h3>
+<p align="center">
+Exploring AI, intelligent systems and advanced machine learning applications.
+<br/><br/>
+<a href="https://github.com/santosh123333333?tab=repositories">View Repositories →</a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">📈 SQL & Data Analytics</h3>
+<p align="center">
+Database management, SQL queries, data exploration and analytical reporting.
+<br/><br/>
+<a href="https://github.com/santosh123333333?tab=repositories">View Repositories →</a>
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:santoshtimsina567@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/san.toshtimsina">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/santosh123333333">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 "Turning Data into Insights, and Ideas into Intelligent Solutions."</b>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! Happy Coding! 🚀
+</p>
